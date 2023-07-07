@@ -1,0 +1,25 @@
+img{
+    width: 90px;
+    height: 80px;
+}
+.text-left{
+
+}
+
+.footer-contaniner{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+      
+  
+    
+    
+    
+}
+.mar{
+    margin: 30px;
+    
+}
